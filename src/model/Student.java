@@ -6,4 +6,5 @@ package model;
  */
 public class Student {
     private String id;
+    private String username;
 }
